@@ -1,10 +1,14 @@
 window.onload = function(){
 
-    // == igual
+    // == Apenas o valor precisa ser igual
+    // === Além de ser igual, a váriavel tem que ser do mesmo tipo
+    // =! Diferente
+    // ==! Diferente valor e tipo
     // >= menor que ou igual
     // <= maior que ou igual
     // > maior que
     // < menor que
+    
 
     var idade = 2016-1993;
 
